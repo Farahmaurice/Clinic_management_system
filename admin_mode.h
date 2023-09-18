@@ -1,0 +1,2 @@
+void StartAdminMode();
+void addNewPatient();
