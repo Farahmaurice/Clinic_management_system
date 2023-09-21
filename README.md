@@ -1,5 +1,6 @@
 # clinic_management_system
 Clinic Management System Devolovped in C programming
+
 At the beginning the system asks the user to choose between admin mode and user mode
 
 In admin mode:
